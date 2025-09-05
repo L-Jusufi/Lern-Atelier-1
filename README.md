@@ -34,5 +34,7 @@ Heute habe ich meine Programmierkenntnisse vertieft. Ich habe gelernt, wie man F
 05.09.2025
 heute habe ich die schleifen nochmal genauer angeschaut damit ich es gut verstehe ich habe meine missionen überarbeitet und fertig gestellt ich habe an kleinen aufgaben manchmal kurze lücken ganz ich will es noch besser können und dafür muss ich mehr lernen
 
+ das nächste mal will ich bei meinen missionen also modulen sowweit wie möglich kommen und sowenig fragen wie nur möglich haben
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
