@@ -31,7 +31,8 @@ Heute habe ich...Heute habe ich mit dem Programmieren angefangen. Zuerst habe ic
 
 (Heute habe ich... (50-100 Wörter) )
 Heute habe ich meine Programmierkenntnisse vertieft. Ich habe gelernt, wie man Funktionen erstellt und sie in einem kleinen Projekt einsetzt. Außerdem habe ich mit Schleifen und Bedingungen gearbeitet, um Abläufe zu steuern. Am Ende konnte ich ein kleines Programm schreiben, das einfache Aufgaben automatisch löst.
-
+05.09.2025
+heute habe ich die schleifen nochmal genauer angeschaut damit ich es gut verstehe ich habe meine missionen überarbeitet und fertig gestellt ich habe an kleinen aufgaben manchmal kurze lücken ganz ich will es noch besser können und dafür muss ich mehr lernen
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
