@@ -38,3 +38,5 @@ heute habe ich die schleifen nochmal genauer angeschaut damit ich es gut versteh
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
+27.03.36
+Gelernt wie man VM installiert sowie auch wie man lua programmiert zu mindest ein kleines bisschen ich musste die meisten meiner programme neu installieren, da ich einen neuen laptop habe ich würde gerne mehr programmiersprachen lernen da wir in der schule meiner meinung nach zu viel zeugs machen welches die plattform entwickler auch machen daran muss jedoch ich selber arbeiten was ich auch einigermassen getan habe sonderlich viel ist sonst nicht passiert während dieser periode 
