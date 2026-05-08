@@ -38,5 +38,11 @@ heute habe ich die schleifen nochmal genauer angeschaut damit ich es gut versteh
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
-27.03.36
+27.04.36
 Gelernt wie man VM installiert sowie auch wie man lua programmiert zu mindest ein kleines bisschen ich musste die meisten meiner programme neu installieren, da ich einen neuen laptop habe ich würde gerne mehr programmiersprachen lernen da wir in der schule meiner meinung nach zu viel zeugs machen welches die plattform entwickler auch machen daran muss jedoch ich selber arbeiten was ich auch einigermassen getan habe sonderlich viel ist sonst nicht passiert während dieser periode 
+
+22.5
+Planungsziel Dezentrales Arbeiten: In unserem Roblox game einige Scripts fertigstellen und ein wenig mehr ordnung schaffen ich muss dann noch ein wenig recherchieren weil es vereinzelte fehler hat in meinem spiel muss suchen wo diese liegen und wie ich sie beheben kann dann muss ich noch ein script ganz schreiben und das design vollenden 
+- [ ] 3 Scripts vollenden
+- [ ] design meiner häuser umändern und verbessern
+- [ ] einen neuen script schreiben für neues game
