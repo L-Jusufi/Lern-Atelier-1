@@ -46,3 +46,4 @@ Planungsziel Dezentrales Arbeiten: In unserem Roblox game einige Scripts fertigs
 - [ ] 3 Scripts vollenden
 - [ ] design meiner häuser umändern und verbessern
 - [ ] einen neuen script schreiben für neues game
+      heute habe ich nahezu alles geschafft ein paar verbesserungen muss ich vornehmen sonst alles gut für die nächste wpche möchte ich diese ziele soweit behalten
