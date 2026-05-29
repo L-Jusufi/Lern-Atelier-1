@@ -47,3 +47,20 @@ Planungsziel Dezentrales Arbeiten: In unserem Roblox game einige Scripts fertigs
 - [ ] design meiner häuser umändern und verbessern
 - [ ] einen neuen script schreiben für neues game
       heute habe ich nahezu alles geschafft ein paar verbesserungen muss ich vornehmen sonst alles gut für die nächste wpche möchte ich diese ziele soweit behalten
+
+      Name: Ledion
+Lenrperiode:  2026
+Grobplanung: Noten
+Aktuelle Note: fast 5.5 – Ziel ist es, diese Note zu halten oder leicht zu verbessern.
+Grobplanung: Veränderungen
+Ich möchte meine Projekte konsequent fertigstellen und nichts offen lassen bis Ende der Periode.
+Grobplanung: Projekte
+Fertigstellung der laufenden HTML/CSS Projekte aus dem Unterricht.
+Grobplanung: Ziele
+Alle angefangenen Projekte abschliessen und sauber abgeben.
+Tageseintrag 
+Heute habe ich an meinem HTML/CSS Projekt weitergearbeitet und neue Abschnitte umgesetzt.
+Planungseintrag 
+Nächste Woche möchte ich mindestens ein Projekt vollständig fertigstellen.
+Reflexion
+Im Mai 2026 habe ich mich hauptsächlich mit HTML und CSS beschäftigt. Die Inhalte waren gut verständlich und ich hatte keine grossen Schwierigkeiten. Mein Fokus lag darauf, meine Projekte abzuschliessen. Mit einer Note von 5.5 bin ich zufrieden und möchte es halten
