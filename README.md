@@ -64,3 +64,8 @@ Planungseintrag
 Nächste Woche möchte ich mindestens ein Projekt vollständig fertigstellen.
 Reflexion
 Im Mai 2026 habe ich mich hauptsächlich mit HTML und CSS beschäftigt. Die Inhalte waren gut verständlich und ich hatte keine grossen Schwierigkeiten. Mein Fokus lag darauf, meine Projekte abzuschliessen. Mit einer Note von 5.5 bin ich zufrieden und möchte es halten
+5.6.2026
+ Glücksrad vollständig fertigstellen: Coins-System und Brainrot-Vergabe nach Seltenheit fehlerfrei testen
+ Map-Umgebung abschliessen: 30 Bäume und 3 verschiedene Bodenmaterialien vollständig platziert
+ Fight-System (1v1, Brainrot klauen) auf Fehler prüfen und wenn nötig fixen
+ GUI für Inventar und Brainrot-Anzeige weiter ausbauen
