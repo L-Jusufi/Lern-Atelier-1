@@ -69,3 +69,10 @@ Im Mai 2026 habe ich mich hauptsächlich mit HTML und CSS beschäftigt. Die Inha
  Map-Umgebung abschliessen: 30 Bäume und 3 verschiedene Bodenmaterialien vollständig platziert
  Fight-System (1v1, Brainrot klauen) auf Fehler prüfen und wenn nötig fixen
  GUI für Inventar und Brainrot-Anzeige weiter ausbauen
+
+ 12.6
+ Lernperiode Reflexion
+Wir haben an unserem bestehenden Code Bugfixes gemacht, die noch offen waren, und danach weiter an der GUI gearbeitet. Die GUI wurde erweitert und verbessert, damit das Spiel übersichtlicher und benutzerfreundlicher wird.
+
+Planung 19.06.2026
+Wir haben weitere Bugfixes an unserem bestehenden Code gemacht und offene Fehler behoben, damit das Spiel stabil läuft.
