@@ -76,3 +76,22 @@ Wir haben an unserem bestehenden Code Bugfixes gemacht, die noch offen waren, un
 
 Planung 19.06.2026
 Wir haben weitere Bugfixes an unserem bestehenden Code gemacht und offene Fehler behoben, damit das Spiel stabil läuft.
+
+ Lern-Periode 4
+
+Name: Jusufi Ledion
+Grob Planung
+Noten
+
+Aktuell stehe ich in den meisten Modulen solide bis gut. Modul 122, Modul 293 und Modul 106 habe ich in dieser Lernperiode bereits abgeschlossen.
+Im Vergleich zur letzten Lernperiode möchte ich konsequenter Tageseinträge führen, statt sie am Schluss der Periode nachzutragen. Zudem will ich mir für Projekte fixe Zeitfenster einplanen, damit Schule und eigene Projekte nicht in Konflikt geraten.
+ Projekte / neue Technologien
+
+In dieser Lernperiode möchte ich mein Roblox-Projekt  weiterentwickeln, insbesondere das Luck Wheel und das 1v1-Fight-System. Dabei will ich mein Verständnis von Lua/Roblox Studio vertiefen.
+Generelle Ziele
+
+Mein Ziel ist es, das Luck Wheel im Roblox-Projekt bugfrei fertigzustellen und parallel in der Schule meine Noten in Modul 106 zu stabilisieren.
+
+Lernperiode Reflexion
+
+In dieser Lernperiode habe ich mich vor allem auf mein Roblox-Projekt konzentriert und dabei mehrere Bugs im Luck Wheel gefunden und behoben. Das hat gut funktioniert, weil ich systematisch getestet und die Probleme Schritt für Schritt eingegrenzt habe. Durch das Meeting mit Fabian konnten wir uns gut abstimmen und die nächsten Schritte klären. Was weniger gut lief: Ich habe die Tageseinträge erst gegen Ende der Periode geschrieben, statt sie laufend zu dokumentieren. Das möchte ich mir für die nächste Lernperiode merken und von Anfang an konsequenter führen.
