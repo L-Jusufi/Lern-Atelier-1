@@ -95,3 +95,92 @@ Mein Ziel ist es, das Luck Wheel im Roblox-Projekt bugfrei fertigzustellen und p
 Lernperiode Reflexion
 
 In dieser Lernperiode habe ich mich vor allem auf mein Roblox-Projekt konzentriert und dabei mehrere Bugs im Luck Wheel gefunden und behoben. Das hat gut funktioniert, weil ich systematisch getestet und die Probleme Schritt für Schritt eingegrenzt habe. Durch das Meeting mit Fabian konnten wir uns gut abstimmen und die nächsten Schritte klären. Was weniger gut lief: Ich habe die Tageseinträge erst gegen Ende der Periode geschrieben, statt sie laufend zu dokumentieren. Das möchte ich mir für die nächste Lernperiode merken und von Anfang an konsequenter führen.
+
+
+# Lern-Periode 5 
+
+- Name: ledion jusufi
+- Zeitraum: 14.8-25.9
+
+## Grob-Planung
+
+### Noten
+Aktuell stehe ich in den meisten Modulen zwischen 4.5 und 5.5. Besonders stark bin ich in Modul 293 (Webentwicklung) und Modul, da mir das Programmieren und die Arbeit mit Datenbanken gut liegt. In Modul 122 (PowerShell) und den BWL-Fächern muss ich noch etwas nacharbeiten, um konstant über der 4.5 zu bleiben. Wichtig ist mir vor allem, in den IT-Modulen stark zu bleiben, da diese für meine spätere Ausbildung am relevantesten sind.
+
+### Veränderungen
+Im Vergleich zur letzten Lernperiode möchte ich strukturierter arbeiten und nicht mehr direkt drauflos programmieren, sondern zuerst kurz planen, was ich umsetzen will. Ausserdem will ich regelmässiger committen, damit die Repository-Aktivität nicht wochenlang stillsteht, und bei Problemen zuerst die Konsole/Logs prüfen statt das ganze Projekt neu zu starten.
+
+### Projekte / neue Technologien
+Ich arbeite weiterhin im Team (mit Fabian und Vincent) an unserem Roblox-Spiel mit Brainrot-Thema. Geplant ist der Ausbau des Basis-Systems, des Glücksrads, des 1v1-Fight-Systems sowie der Coin-Economy. Nebenbei möchte ich mein Wissen in Lua/Luau vertiefen und mehr über sauberen, modularen Code-Aufbau in Roblox Studio lernen.
+
+### Generelle Ziele
+- Basis-System (Plot-Zuweisung) bis Ende der Lernperiode vollständig funktionsfähig haben
+- Glücksrad inkl. Rarity-System fehlerfrei testen
+- 1v1-Fight-System spielbar machen, sodass zwei Spieler es fehlerfrei durchspielen können
+- Map optisch fertigstellen (Bäume, Bodenmaterialien, Deko)
+- Jede Woche mindestens einen Commit ins Repository
+
+## Tagesplanungen
+
+### Planung 14.08.2026
+- [X] Basis-System: Plot-Zuweisung beim Spawn testen
+- [X] Bug im Glücksrad beheben (falsche Rarity-Ausgabe)
+- [ ] Coins-Anzeige im UI aktualisieren
+- [X] Meeting mit Fabian zur Aufgabenverteilung
+
+Heute habe ich zuerst den Fehler im Glücksrad behoben, bei dem manchmal die falsche Rarity ausgegeben wurde. Danach habe ich mit Fabian besprochen, wer sich um welchen Teil des Basis-Systems kümmert. Die Plot-Zuweisung beim Spawn funktioniert jetzt zuverlässig. Die UI-Anzeige für Coins habe ich noch nicht geschafft, das nehme ich mir für nächstes Mal vor.
+
+### Planung 21.08.2026
+- [X] UI-Anzeige für Coins fertigstellen
+- [X] 1v1-Fight-System: Grundgerüst aufbauen
+- [ ] Sound-Effekte für Fight-System einbauen
+- [X] Code aufgeräumt und in Module aufgeteilt
+
+Heute habe ich die Coins-Anzeige im UI fertiggestellt, sie aktualisiert sich jetzt automatisch bei jeder Änderung. Danach habe ich mit dem Grundgerüst für das 1v1-Fight-System begonnen und den bestehenden Code in saubere Module aufgeteilt, damit er übersichtlicher bleibt. Die Sound-Effekte habe ich aus Zeitgründen verschoben.
+
+### Planung 28.08.2026
+- [X] Fight-System: Schaden und Health-Bar implementieren
+- [X] Testen mit Vincent (2 Spieler gleichzeitig)
+- [ ] Fehler bei gleichzeitigem Kampf mehrerer Spieler beheben
+- [X] Map: 5 weitere Bäume platziert
+
+Heute konnte ich zusammen mit Vincent das Fight-System testen. Schaden und Health-Bar funktionieren soweit korrekt, allerdings gab es einen Fehler, wenn mehr als zwei Spieler gleichzeitig kämpfen wollten. Diesen konnte ich noch nicht vollständig beheben, werde ich nächstes Mal weiterverfolgen. Zusätzlich habe ich die Map etwas weiter ausgebaut.
+
+### Planung 04.09.2026
+- [X] Bug bei Mehrspieler-Kämpfen behoben
+- [X] Brainrot-Klau-Mechanik im Fight-System eingebaut
+- [ ] Balancing der Kampfwerte
+- [X] Kurzes Team-Meeting zur Roadmap
+
+Heute habe ich den Fehler bei Kämpfen mit mehreren Spielern gefunden und behoben – das Problem lag an einer falschen Referenz in der Health-Bar-Funktion. Anschliessend habe ich die Mechanik eingebaut, bei der man im Kampf einen Brainrot des Gegners stehlen kann. Im Team-Meeting haben wir die Roadmap für die nächsten Wochen festgelegt. Das Balancing der Kampfwerte fehlt noch.
+
+### Planung 11.09.2026
+- [X] Balancing der Kampfwerte angepasst
+- [X] Map: 3 verschiedene Bodenmaterialien eingebaut
+- [X] 10 Häuser final platziert
+- [ ] Feinschliff an der Beleuchtung
+
+Heute habe ich die Kampfwerte überarbeitet, sodass Kämpfe weniger schnell entschieden sind. Zusätzlich habe ich die Map fertiggestellt: alle 10 Häuser sind platziert und drei verschiedene Bodenmaterialien sorgen für mehr Abwechslung. Die Beleuchtung wollte ich noch anpassen, dafür hat die Zeit nicht mehr gereicht.
+
+### Planung 18.09.2026
+- [X] Beleuchtung der Map angepasst
+- [X] Glücksrad: neue seltene Brainrot-Rarity hinzugefügt
+- [X] Code-Review mit Fabian
+- [ ] Quest-System vorbereiten
+
+Heute habe ich die Beleuchtung der Map angepasst, damit die Umgebung stimmiger wirkt. Danach haben Fabian und ich eine neue, seltenere Brainrot-Kategorie ins Glücksrad eingebaut. Wir haben ausserdem gemeinsam den bisherigen Code durchgeschaut und ein paar unsaubere Stellen bereinigt. Das Quest-System konnte ich noch nicht vorbereiten.
+
+### Planung 25.09.2026
+- [X] Alle Systeme (Basis, Glücksrad, Fight) gemeinsam getestet
+- [X] Kleinere Bugs behoben
+- [X] Commit & Push ins Repository
+- [X] Vorbereitung Reflexion
+
+Heute haben wir alle drei Hauptsysteme – Basis, Glücksrad und Fight-System – gemeinsam durchgetestet, um sicherzustellen, dass alles zusammen funktioniert. Dabei sind noch ein paar kleinere Bugs aufgefallen, die ich direkt behoben habe. Am Ende habe ich alles sauber ins Repository gepusht und mich auf die Reflexion vorbereitet.
+
+## Lernperiode Reflexion
+In dieser Lernperiode habe ich zusammen mit Fabian und Vincent unser Roblox-Spiel deutlich vorangebracht. Das Basis-System, das Glücksrad und das 1v1-Fight-System sind jetzt spielbar und funktionieren zuverlässig zusammen. Besonders gefreut hat mich, dass ich mehrere hartnäckige Bugs (z. B. beim Mehrspieler-Kampf) selbstständig finden und beheben konnte. Im Vergleich zur letzten Lernperiode habe ich strukturierter gearbeitet und regelmässiger committet, was sich positiv auf den Überblick über das Projekt ausgewirkt hat. Für die nächste Lernperiode möchte ich das Quest-System angehen und das Balancing weiter verfeinern, damit das Spiel insgesamt runder wird.
+
+## Nächster Kurstag
+**Datum:** 16.10.2026
+**Geplant:** Quest-System für das Roblox-Spiel konzipieren und erste Version implementieren; ausserdem Feinschliff am Balancing der Kampfwerte.
