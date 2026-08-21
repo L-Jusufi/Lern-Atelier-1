@@ -192,3 +192,5 @@ Ich habe das Währungssystem implementiert (Leaderstats mit "Cash"), sodass eing
 Ich habe mindestens drei verschiedene Brainrot Typen mit unterschiedlichem Wert und unterschiedlicher Seltenheit angelegt und im Skript konfigurierbar gemacht.
 Ich habe die Aufgabenverteilung mit Fabian und Vincent für die kommende Woche schriftlich festgehalten (wer macht Map, wer Scripting, wer UI).
 Ich habe den aktuellen Stand im Team getestet und mindestens zwei gefundene Bugs dokumentiert bzw. behoben.
+
+habe vieles erledigen könne und dazu gelernt mit hilfe von ki war lehrreivher tag
