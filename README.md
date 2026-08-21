@@ -184,3 +184,11 @@ In dieser Lernperiode habe ich zusammen mit Fabian und Vincent unser Roblox-Spie
 ## Nächster Kurstag
 **Datum:** 16.10.2026
 **Geplant:** Quest-System für das Roblox-Spiel konzipieren und erste Version implementieren; ausserdem Feinschliff am Balancing der Kampfwerte.
+
+Arbeitsziele 21.08.2026
+
+Ich habe die Grundmechanik des Brainrot Spawns fertiggestellt: Brainrots erscheinen automatisch alle 40 Sekunden an definierten Spawn Punkten und verschwinden nach dem Einsammeln.
+Ich habe das Währungssystem implementiert (Leaderstats mit "Cash"), sodass eingesammelte Brainrots dem Spieler Punkte gutschreiben.
+Ich habe mindestens drei verschiedene Brainrot Typen mit unterschiedlichem Wert und unterschiedlicher Seltenheit angelegt und im Skript konfigurierbar gemacht.
+Ich habe die Aufgabenverteilung mit Fabian und Vincent für die kommende Woche schriftlich festgehalten (wer macht Map, wer Scripting, wer UI).
+Ich habe den aktuellen Stand im Team getestet und mindestens zwei gefundene Bugs dokumentiert bzw. behoben.
