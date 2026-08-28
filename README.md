@@ -22,6 +22,10 @@ ein programmierfreak werden
 Heute habe ich...Heute habe ich mit dem Programmieren angefangen. Zuerst habe ich mir ein einfaches Tutorial angesehen und die Grundlagen kennengelernt. Danach habe ich kleine Übungen ausprobiert, zum Beispiel Variablen anlegen und einfache Befehle schreiben. Es war spannend, etwas Neues zu lernen und selbst auszuprobieren.
 (50-100 Wörter)
 
+
+
+
+
 ## Planung 23.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
@@ -194,3 +198,13 @@ Ich habe die Aufgabenverteilung mit Fabian und Vincent für die kommende Woche s
 Ich habe den aktuellen Stand im Team getestet und mindestens zwei gefundene Bugs dokumentiert bzw. behoben.
 
 habe vieles erledigen könne und dazu gelernt mit hilfe von ki war lehrreivher tag
+28.08.2026
+### Planung 4.09.2026
+Ziel ist es, mit Python Essentials 1 (Cisco-Kurs) weiterzukommen und am HTML/CSS-Projekt für den Kunden voranzukommen.
+
+3 bis 5 klar messbare Arbeitspakete.
+
+ Python Essentials 1, Section 3 (Boolean Values, Operators, Bedingungen) durcharbeiten und Quiz bestehen
+ Python Essentials 1, Section 4 (Schleifen, Listen) durcharbeiten
+ HTML/CSS-Projekt: Startseite (Struktur + Styling) fertigstellen
+ Kurz notieren, was bei Python noch unklar war
