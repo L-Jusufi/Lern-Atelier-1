@@ -199,6 +199,8 @@ Ich habe den aktuellen Stand im Team getestet und mindestens zwei gefundene Bugs
 
 habe vieles erledigen könne und dazu gelernt mit hilfe von ki war lehrreivher tag
 28.08.2026
+Reflexion 28.08.2026
+Ich konnte Heute 2 neue python befehle lernen und ich habe 2 studnen lange an einer website gearbeitet
 ### Planung 4.09.2026
 Ziel ist es, mit Python Essentials 1 (Cisco-Kurs) weiterzukommen und am HTML/CSS-Projekt für den Kunden voranzukommen.
 
