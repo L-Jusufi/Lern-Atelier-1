@@ -210,3 +210,43 @@ Ziel ist es, mit Python Essentials 1 (Cisco-Kurs) weiterzukommen und am HTML/CSS
  Python Essentials 1, Section 4 (Schleifen, Listen) durcharbeiten
  HTML/CSS-Projekt: Startseite (Struktur + Styling) fertigstellen
  Kurz notieren, was bei Python noch unklar war
+
+
+# Lern-Periode 6
+
+- Name: Ledion Jusufi
+- Zeitraum: tt.mm.jjjj bis tt.mm.jjjj
+
+## Grob-Planung
+
+### Noten
+
+...Ihr Text...
+
+### Veränderungen
+
+...Ihr Text...
+
+### Projekte / neue Technologien
+
+...Ihr Text...
+
+### Generelle Ziele
+
+...Ihr Text...
+
+## Tagesplanungen
+
+### Planung 06.11.2026
+
+- [x] An meiner eigenen Website LJ Digital weitergearbeitet
+- [x] CNAME-Datei für die Domain ljdigital.ch neu erstellt
+- [ ] Website unter ljdigital.ch testen
+
+#### Tagesreflexion
+
+Heute habe ich an meiner eigenen Website LJ Digital gearbeitet. Vor allem habe ich mich um die Domain ljdigital.ch gekümmert und die CNAME-Datei neu erstellt. Dabei habe ich gemerkt, dass schon kleine Einstellungen bei einer Domain viel ausmachen. Nächstes Mal möchte ich testen, ob alles richtig läuft, und die Website weiter verbessern.
+
+## Lernperiode Reflexion
+
+...Ihr Text...
